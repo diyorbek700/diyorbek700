@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @diyorbek700
-- 👀 I’m interested in Full Stack Development(Html,Css,Js and Php)
-- 🌱 I’m currently learning javascript and its frameworks like node and react
+- 👀 I am 2nd year student at IT Park University, majoring a Software Engineering
+- 🌱 I have 6 month experience in web development, my stack is HMTL, CSS, SASS, BOOTSTRAP, TS, JAVASCRIPT, REACT.
 - 💞️ I’m looking to collaborate on Front-End development with senior or middle developers in that field
 - 📫 How to reach me, here is my email abduganiyevdiyorbek360@gmail.com and my github diyorbek700
 
